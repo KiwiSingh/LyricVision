@@ -1,7 +1,5 @@
 # LyricVision 🎬🎵
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kiwisingh)
-
 <p align="center">
   <a href="https://ibb.co/SwcN4w7p">
     <img src="https://i.ibb.co/HTC7fTpQ/E86-FD729-4-E1-F-434-C-A300-F659824-EE687.png" alt="LyricVision Logo" width="400">
