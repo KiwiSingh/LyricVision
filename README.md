@@ -2,8 +2,11 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kiwisingh)
 
-[![LyricVision
-Logo](https://i.ibb.co/HTC7fTpQ/E86-FD729-4-E1-F-434-C-A300-F659824-EE687.png)](https://ibb.co/SwcN4w7p)
+<p align="center">
+  <a href="https://ibb.co/SwcN4w7p">
+    <img src="https://i.ibb.co/HTC7fTpQ/E86-FD729-4-E1-F-434-C-A300-F659824-EE687.png" alt="LyricVision Logo" width="400">
+  </a>
+</p>
 
 **LyricVision** is an AI-assisted music video planning tool that
 converts lyrics into beat-snapped timelines, automatically sources stock
