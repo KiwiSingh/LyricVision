@@ -99,18 +99,6 @@ Duplicate timeline → change resolution to 9:16 → use Smart Reframe or
 manual transforms.
 Subtitles and Text+ workflows supported.
 
-------------------------------------------------------------------------
-
-## ☕ Support the Project
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kiwisingh)
-
-------------------------------------------------------------------------
-
-## 🌐 Creator
-
-Made by Kiwi Singh
-🔗 https://char1ot33r.com
 
 ------------------------------------------------------------------------
 
@@ -146,3 +134,16 @@ In compliance with the GPL:
 
 Note: FFmpeg is not affiliated with LyricVision.
 FFmpeg is developed by the FFmpeg project contributors.
+
+------------------------------------------------------------------------
+
+## ☕ Support the Project
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kiwisingh)
+
+------------------------------------------------------------------------
+
+## 🌐 Creator
+
+Made by Kiwi Singh
+🔗 https://char1ot33r.com
