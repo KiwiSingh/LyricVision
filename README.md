@@ -106,30 +106,40 @@ Subtitles and Text+ workflows supported.
 
 ## 🌐 Creator
 
-Made by Kiwi Singh\
+Made by Kiwi Singh
 🔗 https://char1ot33r.com
 
 ------------------------------------------------------------------------
 
 ## 📜 License
 
-MIT License
+LyricVision is licensed under the GNU General Public License v3.0 or later (GPL-3.0-or-later).
+
+This project bundles a GPL-enabled build of FFmpeg.
+As required by the GPL, LyricVision is distributed under the same license.
+
+See the LICENSE file for full details.
 
 ## 📜 Third-Party Software
 
 ### FFmpeg
 
 LyricVision bundles FFmpeg, a free and open-source multimedia framework.
-	•	Website: https://ffmpeg.org
-	•	Source Code: https://github.com/FFmpeg/FFmpeg
-	•	License: GNU Lesser General Public License (LGPL) v2.1 or later
-	•	License Text: See THIRD_PARTY_LICENSES/LGPL-2.1.txt
 
-LyricVision uses an unmodified build of FFmpeg.
+- Website: https://ffmpeg.org  
+- Source Code: https://github.com/FFmpeg/FFmpeg  
+- License: GNU General Public License (GPL) v3 or later  
+- License Text: See THIRD_PARTY_LICENSES/GPL-3.0.txt  
 
-In compliance with the LGPL:
-	•	You may replace the bundled FFmpeg binary with your own compatible version.
-	•	LyricVision does not restrict reverse engineering for debugging modifications to FFmpeg.
-	•	The complete corresponding source code for FFmpeg is available from the official FFmpeg repository linked above.
+This build of FFmpeg was compiled with GPL-enabled components (`--enable-gpl`).
 
-If you redistribute LyricVision, you must comply with the LGPL requirements for FFmpeg.
+Because of this, LyricVision is distributed under the GNU General Public License v3.0 or later (GPL-3.0-or-later).
+
+In compliance with the GPL:
+
+- The complete corresponding source code for FFmpeg is available from the official FFmpeg repository linked above.
+- LyricVision’s full source code is publicly available.
+- You may modify and redistribute LyricVision under the terms of the GPL.
+
+Note: FFmpeg is not affiliated with LyricVision.
+FFmpeg is developed by the FFmpeg project contributors.
