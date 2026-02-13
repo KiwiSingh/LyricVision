@@ -1,0 +1,10 @@
+openai>=1.0.0
+google-genai
+requests
+librosa
+numpy
+keyring
+torch>=2.1.0
+whisperx
+ffmpeg-python
+soundfile
