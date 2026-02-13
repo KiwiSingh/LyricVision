@@ -17,13 +17,13 @@ visual structure.
 
 ## ✨ Features
 
--   🎙 WhisperX Word-Level Alignment\
--   🎚 Optional Demucs Vocal Separation\
--   🧠 AI Keyword Extraction (OpenAI / Gemini)\
--   🎥 Stock Footage Integration (Pexels / Pixabay)\
--   🥁 Beat-Snapped Timeline Builder (Quarter / Eighth / Sixteenth)\
--   📂 Automatic Clip Download + Media Folder Creation\
--   🎬 FCPXML Export (Resolve & Final Cut compatible)\
+-   🎙 WhisperX Word-Level Alignment
+-   🎚 Optional Demucs Vocal Separation
+-   🧠 AI Keyword Extraction (OpenAI / Gemini)
+-   🎥 Stock Footage Integration (Pexels / Pixabay)
+-   🥁 Beat-Snapped Timeline Builder (Quarter / Eighth / Sixteenth)
+-   📂 Automatic Clip Download + Media Folder Creation
+-   🎬 FCPXML Export (Resolve & Final Cut compatible)
 -   🔐 Secure API key storage via system keyring
 
 ------------------------------------------------------------------------
@@ -71,9 +71,9 @@ Then launch normally.
 
 LyricVision supports:
 
--   OpenAI\
--   Google Gemini\
--   Pexels\
+-   OpenAI
+-   Google Gemini
+-   Pexels
 -   Pixabay
 
 Use the built-in **Manage API Keys** window to securely store keys.
@@ -82,10 +82,10 @@ Use the built-in **Manage API Keys** window to securely store keys.
 
 ## 🎬 Importing into DaVinci Resolve
 
-1.  Open Resolve\
-2.  Go to **File → Import Timeline → Import FCPXML**\
-3.  Select exported file\
-4.  Ensure resolution matches export\
+1.  Open Resolve
+2.  Go to **File → Import Timeline → Import FCPXML**
+3.  Select exported file
+4.  Ensure resolution matches export
 5.  Relink media if prompted
 
 ------------------------------------------------------------------------
@@ -93,7 +93,7 @@ Use the built-in **Manage API Keys** window to securely store keys.
 ## 📱 Vertical Version Workflow
 
 Duplicate timeline → change resolution to 9:16 → use Smart Reframe or
-manual transforms.\
+manual transforms.
 Subtitles and Text+ workflows supported.
 
 ------------------------------------------------------------------------
@@ -114,3 +114,22 @@ Made by Kiwi Singh\
 ## 📜 License
 
 MIT License
+
+## 📜 Third-Party Software
+
+### FFmpeg
+
+LyricVision bundles FFmpeg, a free and open-source multimedia framework.
+	•	Website: https://ffmpeg.org
+	•	Source Code: https://github.com/FFmpeg/FFmpeg
+	•	License: GNU Lesser General Public License (LGPL) v2.1 or later
+	•	License Text: See THIRD_PARTY_LICENSES/LGPL-2.1.txt
+
+LyricVision uses an unmodified build of FFmpeg.
+
+In compliance with the LGPL:
+	•	You may replace the bundled FFmpeg binary with your own compatible version.
+	•	LyricVision does not restrict reverse engineering for debugging modifications to FFmpeg.
+	•	The complete corresponding source code for FFmpeg is available from the official FFmpeg repository linked above.
+
+If you redistribute LyricVision, you must comply with the LGPL requirements for FFmpeg.
