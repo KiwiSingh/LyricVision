@@ -34,7 +34,7 @@ visual structure.
 ### 🖥 Option A --- Run from Source
 
 ``` bash
-git clone https://github.com/YOUR_USERNAME/LyricVision.git
+git clone https://github.com/KiwiSingh/LyricVision.git
 cd LyricVision
 
 conda create -n lyricvision python=3.12
