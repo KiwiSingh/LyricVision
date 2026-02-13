@@ -1,0 +1,9 @@
+This product bundles FFmpeg.
+
+FFmpeg is licensed under the GNU Lesser General Public License (LGPL) v2.1 or later.
+
+Copyright (c) The FFmpeg developers.
+https://ffmpeg.org
+
+Source code is available at:
+https://github.com/FFmpeg/FFmpeg
